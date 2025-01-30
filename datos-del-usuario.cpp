@@ -7,8 +7,11 @@
 //PROFESOR: Sergio Franco Casillas
 //DESCRIPCION: ESTE PROGRAMA RECOLECTA LA INFORMACION DEL USUARIO Y LA MUESTRA EN PANTALLA
 #include <stdio.h>
+//se incluyen las bibliotecas necesarias para usar palabras reservadas
 int main() 
+//inicio del main
 {
+//el printf permitirá mostrar el texto en la pantalla
 printf("Nombre: Ricardo Paredes Sanchez\n");
 printf("Edad: 18 años\n");
 printf("Lugar de residencia: Capilla de Guadalupe\n");
@@ -17,3 +20,4 @@ printf("Carrera: Ingenieria en Computacion\n");
 printf("Semestre: Segundo Semestre\n");
 return 0;
 }
+//fin del codigo
